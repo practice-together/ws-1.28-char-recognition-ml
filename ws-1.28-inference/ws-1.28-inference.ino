@@ -3,7 +3,7 @@
 #include "LCD_Test.h"
 #include "model.h"
 
-// Modern color scheme (16-bit RGB565 format)
+// define some colors (16-bit RGB565 format)
 #define BG_COLOR 0x1B2A // Dark blue background (11,17,42)
 #define TEXT_COLOR 0xFFFF // White text
 #define ACCENT_COLOR 0x867F // Coral for drawing (255,127,108)
